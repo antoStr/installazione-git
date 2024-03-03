@@ -36,4 +36,12 @@ Faccio l'accesso con Github un ultima volta e sotto nei commit dovrei vedere che
 
 ### Swappare account e ricollegarlo a VSC
 
-Se dovessimo utilizzare un account diverso con Github e mi da un errore mentre pusho la repo devo seguire questi passaggi trovati su [questo thread](https://stackoverflow.com/questions/68080637/you-do-not-have-permission-to-push-to-on-github-would-you-like-to-create-a-fork)
+Se dovessimo utilizzare un account diverso con Github e mi da un errore mentre pusho la repo devo seguire questi passaggi trovati su [questo thread](https://stackoverflow.com/questions/68080637/you-do-not-have-permission-to-push-to-on-github-would-you-like-to-create-a-fork).
+
+Qui trovi la traduzione se il thread venisse cancellato:
+
+In VScode uscire facendo clic sull'icona della persona a sinistra in basso sullo schermo e chiudere VScode.
+
+Successivamente, accedere al "Pannello di controllo" in "Windows OS", cercare "Credential Manager" e scegliere "Credenziali di Windows".
+
+Di seguito vedrete un elenco chiamato "Credenziali generiche", rimuovete tutto ciò che ha il nome "Git" e "Github" (questo rimuoverà i vostri accessi).
