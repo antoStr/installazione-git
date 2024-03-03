@@ -19,4 +19,14 @@ git config --global user.email "tua_email@example.com"
 Dove "Il Tuo Nome" e' il tuo nome attuale o pseudonimo e come "tua_email@example.com" la tua mail attuale.
 
 ## Segnalazione errori
+
 Per qualsiasi errore riscontrato nella guida riportero' gli errori qui e come risolverli. Per segnalarne qualcuno puoi utilizzare questo server di discord per segnalare l'errore e risolverlo con me. [Clicca qui per entrare nel server.](https://discord.gg/f7nHr2bwag)
+
+## Sincronizzazione Git/Github/VSC
+
+Una volta aperto VSC dobbiamo essere loggati con github (In basso a sinistra) ed in caso non fossimo loggati facciamo il login.
+
+Proseguo con il clonare una repository cosi' facendo sincronizzo github e vsc con le repo e rifaccio il login dal sito.
+Se dovesse aprire una scheda bianca ed un caricamento su vsc molto lungo del tipo (autenticazione github) puoi fare annulla e ti fara' aprire un link da locale che risolvera' il problema.
+Poi una volta aggiornato il file o la repo da aggiornare faccio un push (in alto a sinistra al lato di "controllo del codice sorgente" ci sono dei tre puntini alla fine "..." e faccio esegui push. Faccio l'accesso con Github un ultima volta e sotto nei commit dovrei vedere che il commit e' stato pushato ad origin.
+
