@@ -34,3 +34,6 @@ Poi una volta aggiornato il file o la repo da aggiornare faccio un push (in alto
 
 Faccio l'accesso con Github un ultima volta e sotto nei commit dovrei vedere che il commit e' stato pushato ad origin.
 
+### Swappare account e ricollegarlo a VSC
+
+Se dovessimo utilizzare un account diverso con Github e mi da un errore mentre pusho la repo devo seguire questi passaggi trovati su [questo thread](https://stackoverflow.com/questions/68080637/you-do-not-have-permission-to-push-to-on-github-would-you-like-to-create-a-fork)
