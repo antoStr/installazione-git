@@ -20,4 +20,3 @@ Dove "Il Tuo Nome" e' il tuo nome attuale o pseudonimo e come "tua_email@example
 
 ## Segnalazione errori
 Per qualsiasi errore riscontrato nella guida riportero' gli errori qui e come risolverli. Per segnalarne qualcuno puoi utilizzare questo server di discord per segnalare l'errore e risolverlo con me. (Server discord)[https://discord.gg/f7nHr2bwag]
-(Link)[https://discord.gg/f7nHr2bwag]
