@@ -24,15 +24,11 @@ Per qualsiasi errore riscontrato nella guida riportero' gli errori qui e come ri
 
 ## Sincronizzazione Git/Github/VSC
 
-Una volta aperto VSC dobbiamo essere loggati con github (In basso a sinistra) ed in caso non fossimo loggati facciamo il login.
-
-Proseguo con il clonare una repository cosi' facendo sincronizzo github e vsc con le repo e rifaccio il login dal sito.
-
-Se dovesse aprire una scheda bianca ed un caricamento su vsc molto lungo del tipo (autenticazione github) puoi fare annulla e ti fara' aprire un link da locale che risolvera' il problema.
-
-Poi una volta aggiornato il file o la repo da aggiornare faccio un push (in alto a sinistra al lato di "controllo del codice sorgente" ci sono dei tre puntini alla fine "..." e faccio esegui push. 
-
-Faccio l'accesso con Github un ultima volta e sotto nei commit dovrei vedere che il commit e' stato pushato ad origin.
+1. Una volta aperto VSC dobbiamo essere loggati con github (In basso a sinistra) ed in caso non fossimo loggati facciamo il login.
+2. Proseguo con il clonare una repository cosi' facendo sincronizzo github e vsc con le repo e rifaccio il login dal sito.
+3. Se dovesse aprire una scheda bianca ed un caricamento su vsc molto lungo del tipo (autenticazione github) puoi fare annulla e ti fara' aprire un link da locale che risolvera' il problema.
+4. Poi una volta aggiornato il file o la repo da aggiornare faccio un push (in alto a sinistra al lato di "controllo del codice sorgente" ci sono dei tre puntini alla fine "..." e faccio esegui push. 
+5. Faccio l'accesso con Github un ultima volta e sotto nei commit dovrei vedere che il commit e' stato pushato ad origin.
 
 ### Swappare account e ricollegarlo a VSC
 
@@ -40,8 +36,6 @@ Se dovessimo utilizzare un account diverso con Github e mi da un errore mentre p
 
 Qui trovi la traduzione se il thread venisse cancellato:
 
-In VScode uscire facendo clic sull'icona della persona a sinistra in basso sullo schermo e chiudere VScode.
-
-Successivamente, accedere al "Pannello di controllo" in "Windows OS", cercare "Credential Manager" e scegliere "Credenziali di Windows".
-
-Di seguito vedrete un elenco chiamato "Credenziali generiche", rimuovete tutto ciò che ha il nome "Git" e "Github" (questo rimuoverà i vostri accessi).
+1. In VScode uscire facendo clic sull'icona della persona a sinistra in basso sullo schermo e chiudere VScode.
+2. Successivamente, accedere al "Pannello di controllo" in "Windows OS", cercare "Credential Manager" e scegliere "Credenziali di Windows".
+3. Di seguito vedrete un elenco chiamato "Credenziali generiche", rimuovete tutto ciò che ha il nome "Git" e "Github" (questo rimuoverà i vostri accessi).
