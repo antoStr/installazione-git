@@ -11,4 +11,4 @@ Per utilizzare Git sul tuo computer, devi prima scaricarlo e installarlo. Ecco c
 3. Nell installazione l'unica cosa essenziale da selezionare oltre alle cose raccomandate e' quella di impostare VSC come editor di testo di git quando ce lo chiede all'inizio, il resto e' facoltativo. (Io ho utilizzato tutto quello raccomandato e nient'altro).
 
 Per far funzionare git dobbiamo impostare un username ed un email tramite bash o powershell. Apro git bash e per vedere se e' installato correttamente faccio:
-```git --version
+```bash git --version
