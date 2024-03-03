@@ -8,10 +8,3 @@ Per utilizzare Git sul tuo computer, devi prima scaricarlo e installarlo. Ecco c
 
 1. Vai al sito ufficiale di Git: [https://git-scm.com/](https://git-scm.com/download/win)
 2. Clicca sul pulsante di download per Windows.
-3. Segui le istruzioni dell'installazione guidata.
-
-### Mac
-
-1. Utilizzando Homebrew:
-   ```bash
-   brew install git
